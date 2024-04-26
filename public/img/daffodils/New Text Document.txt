@@ -1,0 +1,7 @@
+ <img
+          src="img/daffodils/giphy2.gif"
+          style="top: 280px; left:50%;width:240px"
+          class="ls-l img-fluid parallax1 ls-hide-tablet ls-hide-phone"
+          alt=""
+          data-ls="delayin:2000;easingin:easeOutExpo;parallaxlevel:15;"
+        />
