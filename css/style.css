@@ -1516,11 +1516,11 @@ hr {
   font-size: 65px;
 }
 .section-heading h2 {
-  font-size: 55px;
+  font-size: 3vw;
   text-transform: uppercase;
   color: #fff;
-  padding: 30px;
-  line-height: 60px;
+  padding: 3vw;
+  /* line-height: 20px; */
   border-radius: 50%;
   display: inline-block;
   font-weight: 800;
